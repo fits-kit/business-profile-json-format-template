@@ -1,0 +1,61 @@
+{
+  "companyProfile": {
+    "metadata": {
+      "onlineGeneratorUrl": "https://abctool.info/business-profile-json-format-template/",
+      "templateType": "Standard SaaS Company Profile"
+    },
+    "basicInfo": {
+      "companyName": "CloudScale Analytics Inc.",
+      "legalName": "CloudScale Analytics Incorporated",
+      "brandName": "CloudScale",
+      "foundingYear": 2021,
+      "companyType": "Private SaaS",
+      "industry": "Enterprise Software & Cloud Intelligence",
+      "website": "https://cloudscale.example.com",
+      "status": "Active"
+    },
+    "registration": {
+      "businessRegistrationNumber": "DE-LLC-20210899",
+      "taxIdentificationNumber": "XX-XXXXXXX",
+      "vatNumber": "USXXXXXXXXX",
+      "dunsNumber": "012345678"
+    },
+    "headquarters": {
+      "street": "500 Howard Street, Suite 300",
+      "city": "San Francisco",
+      "state": "California",
+      "postalCode": "94105",
+      "country": "United States",
+      "coordinates": {
+        "latitude": 37.7885,
+        "longitude": -122.3972
+      }
+    },
+    "contacts": {
+      "generalEmail": "hello@cloudscale.example.com",
+      "supportEmail": "support@cloudscale.example.com",
+      "salesEmail": "sales@cloudscale.example.com",
+      "phone": "+1-888-555-0190"
+    },
+    "metrics": {
+      "teamSizeRange": "51-200",
+      "activeCustomers": "5,000+",
+      "supportedRegions": [
+        "North America",
+        "Europe",
+        "Asia-Pacific"
+      ]
+    },
+    "securityAndCompliance": [
+      "SOC 2 Type II",
+      "ISO 27001",
+      "GDPR Compliant",
+      "HIPAA Ready"
+    ],
+    "socialProfiles": {
+      "linkedin": "https://www.linkedin.com/company/cloudscale-analytics",
+      "twitter": "https://twitter.com/cloudscale_app",
+      "github": "https://github.com/cloudscale-analytics"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_comment": "WhatsApp Business Profile API Payload. Edit online at https://abctool.info/business-profile-json-format-template/",
+  "_onlineToolUrl": "https://abctool.info/business-profile-json-format-template/",
+  "messaging_product": "whatsapp",
+  "business_profile": {
+    "about": "Official Apple Store Support & Product Consultations.",
+    "address": "300 Post Street, San Francisco, CA 94108, United States",
+    "description": "Welcome to Apple Union Square. Connect with our specialists for product inquiries, order updates, and technical workshops.",
+    "email": "unionsquare-support@apple.com",
+    "profile_picture_handle": "4:dGhpc19pc19hbl9pbWFnZV9oYW5kbGU...",
+    "vertical": "RETAIL",
+    "websites": [
+      "https://www.apple.com/retail/unionsquare/",
+      "https://support.apple.com"
+    ]
+  }
+}

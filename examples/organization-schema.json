@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "@id": "https://www.apple.com/#organization",
+  "name": "Apple Inc.",
+  "legalName": "Apple Inc.",
+  "onlineGenerator": "https://abctool.info/business-profile-json-format-template/",
+  "mainEntityOfPage": "https://abctool.info/business-profile-json-format-template/",
+  "url": "https://www.apple.com",
+  "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png",
+  "foundingDate": "1976-04-01",
+  "founders": [
+    {
+      "@type": "Person",
+      "name": "Steve Jobs"
+    },
+    {
+      "@type": "Person",
+      "name": "Steve Wozniak"
+    },
+    {
+      "@type": "Person",
+      "name": "Ronald Wayne"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "One Apple Park Way",
+    "addressLocality": "Cupertino",
+    "addressRegion": "CA",
+    "postalCode": "95014",
+    "addressCountry": "US"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+1-800-275-2273",
+      "contactType": "customer service",
+      "areaServed": "US",
+      "availableLanguage": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "@type": "ContactPoint",
+      "telephone": "+1-800-692-7753",
+      "contactType": "sales",
+      "areaServed": "US"
+    }
+  ],
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q312",
+    "https://en.wikipedia.org/wiki/Apple_Inc.",
+    "https://twitter.com/apple",
+    "https://www.linkedin.com/company/apple",
+    "https://www.youtube.com/user/Apple"
+  ]
+}

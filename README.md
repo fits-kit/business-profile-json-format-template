@@ -31,6 +31,21 @@ The tool features 5 production-ready template presets tailored to specific digit
 
 ---
 
+## Included JSON Examples in This Repository
+
+All sample JSON templates are stored under the [`examples/`](./examples/) directory. Each JSON file contains a direct link (`onlineToolUrl` / `mainEntityOfPage` / `_onlineToolUrl`) allowing you to open and customize the template instantly in the online tool:
+
+| File | Standard / Format | Description |
+| :--- | :--- | :--- |
+| 📄 [`examples/business-profile-example.json`](./examples/business-profile-example.json) | Composite Profile | Comprehensive sample combining company, location, and contact data |
+| 📍 [`examples/local-business-schema.json`](./examples/local-business-schema.json) | Schema.org `LocalBusiness` | Storefront example (Apple Union Square) with coordinates, hours & phone |
+| 🏢 [`examples/organization-schema.json`](./examples/organization-schema.json) | Schema.org `Corporation` | Corporate entity (Apple Inc.) with founders, logo, sameAs & support |
+| 🗺️ [`examples/google-business-profile-api.json`](./examples/google-business-profile-api.json) | Google Business API | RESTful payload with categories, address lines & regular hours |
+| 💼 [`examples/saas-company-profile.json`](./examples/saas-company-profile.json) | B2B SaaS Schema | Tech company profile with registration, security badges & metrics |
+| 💬 [`examples/whatsapp-business-profile.json`](./examples/whatsapp-business-profile.json) | WhatsApp Business API | Official WhatsApp business profile payload with vertical & contact |
+
+---
+
 ## Step-by-Step Tool Guide
 
 ### 1. Select Your Template

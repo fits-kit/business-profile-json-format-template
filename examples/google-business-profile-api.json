@@ -1,0 +1,87 @@
+{
+  "_comment": "Google Business Profile API payload example. Customize online at https://abctool.info/business-profile-json-format-template/",
+  "_onlineToolUrl": "https://abctool.info/business-profile-json-format-template/",
+  "languageCode": "en",
+  "storeCode": "US-CA-SF-001",
+  "title": "Apple Union Square",
+  "phoneNumbers": {
+    "primaryPhone": "+1 415-486-4800"
+  },
+  "categories": {
+    "primaryCategory": {
+      "name": "categories/gcid:computer_store",
+      "displayName": "Computer Store"
+    },
+    "additionalCategories": [
+      {
+        "name": "categories/gcid:cell_phone_store",
+        "displayName": "Cell Phone Store"
+      },
+      {
+        "name": "categories/gcid:electronics_repair_shop",
+        "displayName": "Electronics Repair Shop"
+      }
+    ]
+  },
+  "storefrontAddress": {
+    "regionCode": "US",
+    "postalCode": "94108",
+    "administrativeArea": "CA",
+    "locality": "San Francisco",
+    "addressLines": [
+      "300 Post Street"
+    ]
+  },
+  "websiteUri": "https://www.apple.com/retail/unionsquare/",
+  "regularHours": {
+    "periods": [
+      {
+        "openDay": "MONDAY",
+        "openTime": "10:00",
+        "closeDay": "MONDAY",
+        "closeTime": "20:00"
+      },
+      {
+        "openDay": "TUESDAY",
+        "openTime": "10:00",
+        "closeDay": "TUESDAY",
+        "closeTime": "20:00"
+      },
+      {
+        "openDay": "WEDNESDAY",
+        "openTime": "10:00",
+        "closeDay": "WEDNESDAY",
+        "closeTime": "20:00"
+      },
+      {
+        "openDay": "THURSDAY",
+        "openTime": "10:00",
+        "closeDay": "THURSDAY",
+        "closeTime": "20:00"
+      },
+      {
+        "openDay": "FRIDAY",
+        "openTime": "10:00",
+        "closeDay": "FRIDAY",
+        "closeTime": "20:00"
+      },
+      {
+        "openDay": "SATURDAY",
+        "openTime": "10:00",
+        "closeDay": "SATURDAY",
+        "closeTime": "20:00"
+      },
+      {
+        "openDay": "SUNDAY",
+        "openTime": "11:00",
+        "closeDay": "SUNDAY",
+        "closeTime": "18:00"
+      }
+    ]
+  },
+  "labels": [
+    "Flagship",
+    "GeniusBar",
+    "TodayAtApple"
+  ]
+}
